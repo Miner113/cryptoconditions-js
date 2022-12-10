@@ -16,7 +16,7 @@ To add the wasm to your nodejs project first make it as a global node module:
 cd ~/your-repo-dir/cryptoconditions-js/cryptoconditions/pkg
 npm link -g
 ```
-then make a link to the global npm module for your project
+then make a link to the global npm module for your project 
 ```
 cd ~/your-project-dir
 npm link cryptoconditions
