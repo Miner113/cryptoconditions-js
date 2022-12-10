@@ -1,4 +1,4 @@
-### Notes on 'cryptoconditions' library 
+### Notes on 'cryptoconditions' library
 
 This is the 'cryptoconditions' library for Komodo cc modules development.
 
